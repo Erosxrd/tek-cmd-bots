@@ -6,3 +6,7 @@ Bota yeni başladım. 1 ay içerisinde 61 star gelmezse botu paylaşmayacagım b
 
 # Not
 60 Star olduğu gün paylaşılacaktır!
+
+# Not 
+
+Altyapılar benim kendi yazdığım alt yapılar değildir, githubdan buldugum altyapılardır hepsi işinize yarayacaktır. **Tek yaptığım şey bu botları birleştirmek olacaktır.**
